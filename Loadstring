@@ -1,0 +1,9 @@
+-- Stop trying to steal my script!
+
+if game.PlaceId == 155615604 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/GhoulScripts/Ghoul-Hub-V2---Synapse-Theme-games/main/Prison%20Life'), true))()
+elseif game.PlaceId == 4254575069 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/GhoulScripts/Ghoul-Hub-V2---Synapse-Theme-games/main/Champion%20Simulator'), true))()
+elseif game.PlaceId == 6512923934 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/GhoulScripts/Ghoul-Hub-V2---Synapse-Theme-games/main/Ultra%20Clickers%204'), true))()
+end
